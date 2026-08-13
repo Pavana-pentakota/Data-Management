@@ -15,16 +15,12 @@ I enjoy transforming raw data into meaningful business insights using Excel, SQL
 
 - Advanced SQL
 - Python for Data Analysis
+- Tableu
 - German (A1)
 
 ### Portfolio Projects
 
-- Financial Dashboard
-- Sales Dashboard
-- HR Analytics
-- Customer Segmentation
-- Supply Chain Dashboard
-- Marketing Dashboard
+- ENIAC - MAGIST Tableu Project 
 
 ### Connect with Me
 
