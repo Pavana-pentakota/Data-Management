@@ -30,4 +30,5 @@ https://www.linkedin.com/in/pavanapentakota/
 Email:
 pentakotapavanakumari@gmail.com
 
-![Data Science Certificate](CertificateOfCompletion_The Data Science of...)
+###![Data Science Certificate](CertificateOfCompletion_The Data Science of Experimental Design.jpg)
+
